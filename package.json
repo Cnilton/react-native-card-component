@@ -1,0 +1,37 @@
+{
+  "name": "CardComponent",
+  "description": "A react-native card component",
+  "version": "1.0.0",
+  "author": "Caio Nilton <cnilton>",
+  "main": "index.js",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "card-component",
+    "react-native-card-component"
+  ],
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/runtime": "^7.14.0",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^27.0.2",
+    "eslint": "^7.28.0",
+    "jest": "^27.0.4",
+    "metro-react-native-babel-preset": "^0.66.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
