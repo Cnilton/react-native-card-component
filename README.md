@@ -9,13 +9,13 @@ This is a React-Native Credit Card component, but currently just a mockup.
 To install just input the following command:
 
 ```bash
-npm i react-native-card-component
+npm i react-native-credit-card-component-mockup
 ```
 
 or
 
 ```bash
-yarn add react-native-card-component
+yarn add react-native-credit-card-component-mockup
 ```
 
 ## Contributions

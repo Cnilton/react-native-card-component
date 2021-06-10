@@ -1,7 +1,7 @@
 {
   "name": "react-native-card-component",
   "description": "A react-native card component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Caio Nilton <cnilton>",
   "main": "index.js",
   "private": false,
