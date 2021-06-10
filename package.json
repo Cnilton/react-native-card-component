@@ -1,6 +1,6 @@
 {
-  "name": "react-native-card-component",
-  "description": "A react-native card component",
+  "name": "react-native-credit-card-component-mockup",
+  "description": "A react-native credit card component",
   "version": "1.0.1",
   "author": "Caio Nilton <cnilton>",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "keywords": [
     "card-component",
-    "react-native-card-component"
+    "react-native-credit-card-component"
   ],
   "scripts": {
     "android": "react-native run-android",
